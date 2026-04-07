@@ -131,6 +131,7 @@ SELECT
   ROUND(100 * SUM(CASE WHEN profit < 0 THEN 1 ELSE 0 END) / COUNT(*), 1) AS loss_rate_pct
 FROM superstore;
 ```
+##### Note: Full SQL scripts are included in this repository for reference.
 ---
 ## 🛠️ Skills
 
@@ -149,7 +150,7 @@ FROM superstore;
 - Profitability varies across regions, with Central underperforming  
 - Discounting is the primary driver of profit erosion  
 - High sales do not guarantee profitability  
-- Profit and loss are driven by specific states and products  
+- Profit and loss are driven by a small set of states and products  
 - Profitability varies across sub-categories  
 
 ---

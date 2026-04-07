@@ -1,5 +1,7 @@
 # Retail Profitability Analysis: Evaluating Discount Impact, Product Performance, and Regional Inefficiencies
 
+> A data-driven analysis of how discounting, product performance, and regional dynamics impact retail profitability.
+
 ---
 
 ## 🧠 Executive Summary
